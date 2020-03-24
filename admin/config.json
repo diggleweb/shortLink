@@ -1,21 +1,21 @@
 {
     "installer": {
         "username": "admin",
-        "password": "teste12"
+        "password": "admin"
     },
     "settings": {
-        "name": "devShort shortlink service",
-        "author": "The admin",
-        "home_link": "https://github.com/flokX/devShort",
+        "name": "shortlink",
+        "author": "admin",
+        "home_link": "#",
         "favicon": "assets/icon.png",
         "custom_links": {
-            "devShort wiki": "https://github.com/flokX/devShort/wiki",
-            "devShort author": "https://github.com/flokX"
+            "devShort wiki": "#",
+            "devShort author": "#"
         }
     },
     "shortlinks": {
-        "repo": "https://github.com/flokX/devShort",
-        "wiki": "https://github.com/flokX/devShort/wiki",
-        "author": "https://github.com/flokX"
+        "repo": "#",
+        "wiki": "#",
+        "author": "#"
     }
 }
